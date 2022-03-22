@@ -12,7 +12,7 @@
 
 - 이름 : 홍승호
 - E-mail : seunghonice@gmail.com
-
+- Linkedin : [www.linkedin.com/in/seunghonice](https://www.linkedin.com/in/seunghonice)
 ```
 💡 일상생활의 비효율을 효율로 바꾸는 일을 좋아합니다.
 ```
