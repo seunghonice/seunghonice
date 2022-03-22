@@ -30,6 +30,8 @@
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Slack-%234A154B.svg?&logo=slack&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?&logo=notion&logoColor=white" />
-    
 </div>
 
+<br/>
+
+[resume (constructing)](resume/README.md)
