@@ -25,9 +25,9 @@
 ## Work Experiences
 ***
 - [컬리](https://kurly.com) (2022.01 ~ 현재)
-  - 물류 모바일 앱 개발자
+  - 물류 모바일 앱 개발자 (Android)
 - [맵퍼스](http://www.mappers.kr) (2018.08 ~ 2021.12)
-  - 모바일 앱 개발자
+  - 모바일 앱 개발자 (Android, iOS)
 
 <br /><br />
 
