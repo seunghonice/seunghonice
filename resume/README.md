@@ -25,7 +25,7 @@
 ## Work Experiences
 ***
 - [컬리](https://kurly.com) (2022.01 ~ 현재)
-  - 물류 모바일 앱 개발자 (Android)
+  - 물류 모바일 앱 개발자 (iOS/Flutter, Android)
 - [맵퍼스](http://www.mappers.kr) (2018.08 ~ 2021.12)
   - 모바일 앱 개발자 (Android, iOS)
 
@@ -41,34 +41,19 @@
 ## Skills
 ***
 ### 📱 App
-- Android(Java, Kotlin)
-  - MVVM, DataBinding, Hilt
-  - Navigation Component, LiveData, 
-  - Coroutine
-- Flutter(Dart, studying)
-- IOS(mainly Objective-C)
+- iOS(Swift)
+- Flutter(Dart)
+- Android(Kotlin)
 
 ### 🖥  Frontend 
-```
-화려한 애니메이션까지는 아니지만 디자인을 토대로,
-또는 필요에 맞게 UI/UX를 구성하고
-필요한 기능을 적용할 수 있는 정도의 스킬을 가지고 있습니다.
-```
 - React.js
   
 ### 🤖  Backend 
-```
-REST API 환경과 여러 SDK 연동(로그인, 결제 등)이 가능한
-서버 구축이 가능한 정도의 스킬을 가지고 있습니다.
-```
-- Spring Framework, Spring Boot, Node.js
+- Spring Boot+JPA
 
 ### 🎛 Others
-- Firebase Console을 이용한 Push Notification, Database 사용 가능
-- AWS S3, Cloudfront, EC2 서버, RDS 구성 가능
-- Google Analytics, Firebase Analytics
-- Kakao SDK 외 SSO 구현 가능
+- AWS ECS 를 이용한 CI/CD 구축
+- DataDog, Sentry 를 통한 모니터링
 
 ### 📡  For Communication
-- Version control: Git/GitFlow, GithubFlow
-- Design tools: Zeplin, Figma
+- Figma, Jira/Confluence, Notion, Slack 😍
